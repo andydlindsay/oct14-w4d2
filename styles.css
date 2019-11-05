@@ -1,0 +1,9 @@
+body {
+  background-color: darksalmon;
+  color: chocolate;
+}
+
+div.content {
+  border: 2px dashed magenta;
+  border-radius: 4px;
+}
